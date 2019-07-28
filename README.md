@@ -12,7 +12,7 @@
 增加了内置规则和订阅规则一起更新
 
 ### 内置规则列表
-[kp.dat](https://raw.githubusercontent.com/user1121114685/koolproxyR/master/koolproxyR/koolproxyR/data/rules/kp.dat)
+[kp.dat](https://raw.githubusercontent.com/user1121114685/koolproxyR_rule_list/master/kp.dat)
 
 [easylistchina](https://raw.githubusercontent.com/user1121114685/koolproxyR/master/koolproxyR/koolproxyR/data/rules/easylistchina.txt)
 
