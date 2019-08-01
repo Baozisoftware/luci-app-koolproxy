@@ -15,7 +15,7 @@
 
 ```
 ip6tables -t nat -I PREROUTING -p tcp -j REDIRECT --to-ports 3000
-#已知副作用:无法使用IPv6建立主动连接.
+#已知副作用:无法使用IPv6建立主动传入连接.
 ```
 
 **NOTE:**
