@@ -11,6 +11,8 @@
 
 增加了内置规则和订阅规则一起更新
 
+**增加IPv6支持(基于透明代理一刀切)**
+
 ### 内置规则列表
 [kp.dat](https://raw.githubusercontent.com/user1121114685/koolproxyR_rule_list/master/kp.dat)
 
